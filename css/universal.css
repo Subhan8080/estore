@@ -1,3 +1,4 @@
+
 body{
     text-align: center;
     background-color: rgb(43, 255, 0);
@@ -5,4 +6,22 @@ body{
 
 h3{
     text-align: center;
+
+
+h6
+{
+    background-color: chocolate;
+    text-size-adjust: 20dp;
+
+h3{
+    background-color: aqua;
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+
+
 }
