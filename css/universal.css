@@ -1,4 +1,13 @@
 
+body{
+    text-align: center;
+    background-color: rgb(43, 255, 0);
+}
+
+h3{
+    text-align: center;
+
+
 h6
 {
     background-color: chocolate;
@@ -13,5 +22,6 @@ body{
 
 h1{
     text-align: center;
+
 
 }
